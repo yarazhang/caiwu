@@ -32,7 +32,7 @@ git commit -m "Add other fund application static site for Vercel"
 
 ```bash
 git branch -M main
-git remote add origin https://github.com/你的GitHub用户名/财务.git
+git remote add origin https://github.com/yarazhang/财务.git
 git push -u origin main
 ```
 
