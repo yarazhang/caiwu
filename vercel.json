@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/other-fund-application", "destination": "/index.html" },
-    { "source": "/other-fund-application.html", "destination": "/index.html" }
-  ]
-}
